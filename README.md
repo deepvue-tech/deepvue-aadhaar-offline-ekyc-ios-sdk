@@ -5,7 +5,7 @@ iOS wrapper for flutter
 
 ## Installation
 
-Download our github repository for IOS repo.
+Download our iOS dependencies from from [here](https://deepvue-public-storage.s3.ap-south-1.amazonaws.com/offline-aadhaar-ekyc/ios/v0.0.2/deepvue-okyc-ios-plugin.zip).
 
 ### For Debug
 - Open Pod File and add **pod 'Flutter', :podspec => '[path of downloaded repo]/Debug/Flutter.podspec'**
